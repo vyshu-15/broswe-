@@ -1,0 +1,18 @@
+li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+}
+.ListItems {
+  display: flex;
+}
+.ListItem p {
+  margin-right: 10px;
+}
+
+button {
+  background-color: transparent;
+  border: 0px;
+}
